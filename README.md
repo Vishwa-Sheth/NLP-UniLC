@@ -14,7 +14,7 @@ bash download.sh
 The evaluation corpora will be saved at `UniLC/ulsc_data/`
 
 ## OpenAI API key
-Paste your OpenAI API key in the `openai-key.txt` file or replace the corresponding code in `general_check.py` (line 20).
+Paste your OpenAI API key in the `openai-key.txt` file or replace the corresponding code in `general_check.py` (line 23).
 
 ## Reproducing the experiments
 
